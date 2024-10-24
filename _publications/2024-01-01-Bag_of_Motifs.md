@@ -1,6 +1,6 @@
 ---
 title: "A Bag-Of-Motif Model Captures Cell States at Distal Regulatory Sequences"
-authors: Paola Cornejo-Páramo, Xuan Zhang, Lithin Louis, Yi-Hua Yang, Zelun Li, David Humphreys, Emily S. Wong
+Authors: Paola Cornejo-Páramo, Xuan Zhang, Lithin Louis, Yi-Hua Yang, Zelun Li, David Humphreys, Emily S. Wong
 collection: publications
 permalink: /publication/2024-01-01-Bag_of_Motifs
 excerpt: 'This paper defines a computational approach, BOM (Bag-of-Motifs), which represents cis-regulatory sequences by the type and number of TF binding motifs it contains, irrespective of motif order, orientation, and spacing'
